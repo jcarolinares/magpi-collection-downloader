@@ -19,12 +19,12 @@ You will need a bunch of libraries that can be installed using pip or apt-get
 
 ### Beatifulsoup
 
-''' bash
+``` bash
 sudo pip install beautifulsoup4
-'''
+```
 
 ### lxml
 
-''' bash
+``` bash
 sudo apt-get install python2-lxml
-'''
+```
